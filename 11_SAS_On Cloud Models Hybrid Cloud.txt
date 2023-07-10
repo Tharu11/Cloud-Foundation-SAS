@@ -1,0 +1,43 @@
+11_SAS_On Cloud Models Hybrid Cloud.
+
+
+
+
+1. What is a hybrid cloud?
+ANS. A hybrid cloud combines both private and public clouds environments which means a hybrid cloud will allow users to run applications on most appropriate locations. 
+	
+
+2. What is an example of a hybrid cloud?
+ANS. An example of a hybrid cloud would be hosting a website in a public cloud and linking it to a highly secure database hosted in a private cloud infrastructure.
+	
+
+3. When are hybrid clouds useful?
+ANS. Hybrid clouds are useful when an organization has something that they do want to put in a public cloud possibly because of legal reasons. 
+	
+
+4. What would be an example of an organization not putting data into a public cloud for legal reasons?
+ANS. An example of an organization not putting data into a public cloud for legal reasons would medical data that an organization might not want to expose in public 
+	
+
+5. What would be another reason an organization might want to use hybrid cloud?
+ANS. Another reason an organization might want to use hybrid cloud is they have old hardware that can’t be updated which they might want to keep locally in a private environment and connect it to a public cloud for authorization or storage.
+	
+
+6. What is the best way to describe a hybrid cloud?
+ANS. The best way to describe a hybrid cloud is cloud resources being shared between on-premises private cloud and cloud hosted private cloud.
+	
+
+7. What is the difference between hybrid cloud and public cloud?
+ANS. The difference between hybrid cloud and public cloud is that hybrid cloud can use both public and private cloud resources and not share all the data in the public cloud by keeping them in the private cloud. Where in the public cloud all the data is present in the public cloud.
+	
+
+8. What is the difference between hybrid cloud and private cloud?
+ANS. The difference between hybrid cloud and private cloud is that hybrid cloud can use both public and private cloud resources and not share all the data in the public cloud by keeping them in the private cloud. Where in the private cloud all the resources available in the private cloud are not available to any one public.
+	
+
+9. What are some examples of public cloud providers?
+ANS. Some examples of public cloud providers are AWS, Google Cloud, and MS Azure.
+	
+
+10. When it comes to hybrid clouds, who maintains and operates hybrid clouds?
+ANS. When it comes to hybrid clouds and who maintains and operates them. The private cloud they own will be maintained and operated by the organization. The public cloud will be maintained and operated by public cloud providers such as AWS, Google cloud, and MS Azure.

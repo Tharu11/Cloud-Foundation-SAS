@@ -1,0 +1,43 @@
+9_SAS_On Cloud Models What is Private Cloud
+
+
+
+
+1. What are private clouds?
+ANS. Private clouds are owned and operated by an organization that uses resources from that cloud.
+	
+
+2. The organizations or enterprises create their own cloud environment with private clouds? True/False.
+ANS. True.
+	
+
+3. What are the other things organizations can have in their own cloud environment?
+ANS. The other things organizations can have in their own cloud environment will be their own datacenter which means resources, hardware, storage and everything else required to make a cloud is within the datacenter of the organization.
+	
+
+4. Private cloud in an organization means employees of the organization can use a self service provisioning portal to login to the private cloud and create computing resources? True/False.
+ANS. True.
+	
+
+5. When it comes to the private cloud, who is responsible for operating and maintaining the private cloud?
+ANS. The organization who owns the private cloud is responsible for operating and maintaining the private cloud.
+	
+
+6. What is a good example of using a private cloud?
+ANS. A good example of using a private cloud would be when an organization has data that they do not want to put in a public cloud.
+	
+
+7. What would be another reason an organization might not want to put some data into a public cloud?
+ANS. Another reason for an organization who might not want to put some data into a public cloud would be a legal reason.
+	
+
+8. What type of legal reason would an organization have to not put some data into a public cloud?
+ANS. Legal reason an organization would have to not put some data into a public cloud be medical data which can’t be exposed publicly.
+	
+
+9. There is also some government data that a country might want to put safely within private data? True/False.
+ANS. True.
+	
+
+10. What is the difference between public cloud and private cloud?
+ANS. The difference between public cloud and private cloud is that public cloud is provided by cloud providers such as AWS, Google Cloud, and MS Azure who are responsible for hardware and maintaining those hardware. In Private cloud an organization who owns the private cloud is responsible for all the hardware and maintaining those hardware.

@@ -1,0 +1,43 @@
+16_SAS_On What is PAAS.
+
+
+
+
+1. What are developers responsible for?
+ANS. Developers are responsible for building great applications, writing great code, making sure that the application works, runs and responses at best.
+	
+
+2. What is the major roadblock that developers have?
+ANS. The major roadblock that developers have is that they don’t have an understanding of underlying infrastructure where the application will be hosted.
+	
+
+3. What is an example of a roadblock that developers face?
+ANS. An example of a roadblock that developers face would be that the developer may not know what encryption is and what backups are.
+	
+
+4. What is PAAS Platform as a service?
+ANS. PAAS platform as a service would be providing an environment for building such applications so that the developer doesn’t have to worry about those concepts. Developers just have to focus on writing the best codes.
+	
+
+5. Platform as a service provides an environment for building, testing, and deploying software applications? True/False.
+ANS. True.
+	
+
+6. What is the goal of PAAS Platform as a service?
+ANS. The goal of Platform as a service is to help create an application as quickly as possible without having the developer to worry about managing the underlying infrastructure.
+	
+
+7. What is the benefit of using Platform as a service?
+ANS. The benefit of using Platform as a service is that the user does not have to install an operating system; they don’t even have to worry about Windows update or install an antivirus on the machine. 
+	
+
+8. PAAS platform as a service is a complete development and deployment environment in the cloud? True/False.
+ANS. True.
+	
+
+9. Where are the resources purchased from with Platform as a service PAAS?
+ANS. The resources are purchased from cloud service providers on pay as you go bases and accessed over secure internet connection.
+	
+
+10. With Platform as a service, users/developers are responsible for the development of their own applications however they are not responsible for managing the server or underlying infrastructure. This allows the user, developer to focus on building the application or the workloads they want to run. True/False
+ANS. True.

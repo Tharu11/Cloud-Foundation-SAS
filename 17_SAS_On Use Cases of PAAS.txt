@@ -1,0 +1,43 @@
+17_SAS_On Use Cases of PAAS.
+
+
+
+
+1. What is PAAS Platform as a service?
+ANS. PAAS platform as a service is a hosting model in which instead of providing bare metal machines or the basic operating system. Users will be provided with the platform on which the user needs to build something for the end user. 
+	
+
+2. What is PAAS referred to as _______________?
+ANS. Serverless design.
+	
+
+3. What are some popular platforms as a service?
+ANS. Some popular platform as a service such as DBMS where the vendor will host the database for the user and user needs to build their own databases which is then consumed by the end users or other applications.
+	
+
+4. What is the benefit of using DBMS with PAAS?
+ANS. The benefit of using DBMS with PAAS is that users don’t really have to manage the database management services. There is inbuilt monitoring and automatic backup 
+	
+
+5. What are other benefits of DBMS?
+ANS. Other benefits of DBMS are inbuilt monitoring, automatic backups, and minimal intervention required for optimizing users queries.
+	
+
+6. What are some examples of DBMS minimal intervention required for optimizing user queries?
+ANS. Some examples of DBMS minimal intervention required for optimizing user queries are Azure SQL, Amazon Relational Database Service, Google clouds and Clouds planner also fall under DBMS. 
+	
+
+7. What is web application hosting?
+ANS. Web application hosting is another popular use case where users will get the run time for web applications like php, java, .net, node js. etc.
+	
+
+8. What are some examples of web application hosting?
+ANS. Some examples of web application hosting are Azure Webapps, Elastic Beanstalk, Google App Engine and Container Orchestration. 
+	
+
+9. What are some examples of Container services?
+ANS. Some examples of Container services are Azure container services, Amazon elastic container services, Google container service and Google Kubernetes engine. 
+	
+
+10. What are some examples of Big Data services?
+ANS. Some examples of Big Data services are Azure data lake, HD insight, Amazon redshift elastic map reduce, Google’s big table and big query.

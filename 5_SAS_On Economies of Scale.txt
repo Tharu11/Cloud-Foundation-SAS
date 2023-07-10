@@ -1,0 +1,43 @@
+5_SAS_On Economies of Scale
+
+
+
+
+1. What is the concept of economies of scale?
+ANS. The concept of economies of scale is the ability to do things more cheaply and more efficiently  when operating at a large scale in comparison to operating at a smaller scale
+	
+
+2. In cloud services which companies are able to leverage from economies of scale.
+ANS. The companies that are able to leverage economies of scale in cloud services are Amazon, Google and Microsoft because they are large companies with resources. 
+	
+
+3. In what way have the large cloud service providers been able to provide cloud services at lower prices to their users?
+ANS. One way cloud service providers have been able to provide cloud services at lower prices is because of the cost of storage space in recent years. The price of storage has gone significantly lower.
+	
+
+4. Cloud service providers competing against each other is also the reason for lower cloud service prices for users? True/False
+ANS. True.
+	
+
+5. What is Investment in R&D in economies of  scope and scale?
+ANS. The investment in R&D in economies of scope and scale can be seen as core technology innovation.
+	
+
+6. What is Faster R&D innovation in economies of  scope and scale?
+ANS. Faster R&D innovation in economies of scope and scale is vendor responsiveness, product and process innovation, security and reliability, and new differentiated features.
+	
+
+7. What is the Increased success rate in economies of  scope and scale?
+ANS. The Increased success rate in economies of scope and scale is faster growth in installed base of customer and seats.
+	
+
+8. What is Infrastructure costs decrease in economies of  scope and scale?
+ANS. The infrastructure costs decrease in economies of scope and scale is supply side economies: Cost of power, labor, security and reliability, buying power.
+	
+
+9. What is Utilization variability decreases in economies of  scope and scale?
+ANS. Utilization variability decreases in economies of scope and scale is demand side economies: usage variability diversified away leading to better utilization (time-of-day, seasonal, industry-specific).
+	
+
+10. What is Faster revenue growth in economies of  scope and scale?
+ANS. Faster revenue growth in economies of scope and scale is a larger contribution per seat.

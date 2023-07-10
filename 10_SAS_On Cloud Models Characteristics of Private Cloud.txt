@@ -1,0 +1,43 @@
+10_SAS_On Cloud Models Characteristics of Private Cloud.
+
+
+
+
+1. What is a private cloud?
+ANS. Private clouds are owned and operated by an organization that uses resources from that cloud.
+	
+
+2. What are the characteristics of a private cloud?
+ANS. The characteristics of a private cloud are Ownership, Hardware, Users, Connectivity, Public Access, and Skills.
+	
+
+3. What is ownership in a private cloud?
+ANS. Ownership in a private cloud is the owner and user of cloud services are the same.
+	
+
+4. What is the comparison between public cloud and private cloud?
+ANS. The comparison between public cloud and private cloud is cloud user and cloud owner with private cloud an organization owns and uses their private cloud. With a public cloud an organization owns the public cloud and provides the resource to be used by users by paying for those services.
+	
+
+5. What is hardware in a private cloud?
+ANS. Hardware in a private cloud means that the owner is responsible for purchase, maintenance, management of the cloud hardware.
+	
+
+6. What are users in a private cloud?
+ANS. Users in a private cloud means a private cloud operates only within one organization and cloud computing resources are used exclusively by a single organization or single business.
+	
+
+7. What is connectivity in a private cloud?
+ANS. Connectivity in a private cloud means a connection to a private cloud is typically made over a private network within companies LAN environment which makes it highly secure 
+	
+
+8. The connection to a private cloud is not available to the public? True/False.
+ANS. True.
+	
+
+9. What is public access in a private cloud?
+ANS. Public access in a private cloud means the public can’t access any private resource available in a private cloud from a public or internet environment.
+	
+
+10. What are skills in a private cloud?
+ANS. Skills in a private cloud means to build a private cloud it will require a deep technical knowledge because a private cloud owner has to maintain, set up and manage private cloud infrastructure.

@@ -1,0 +1,43 @@
+Introduction to the CLOUD COMPUTING 
+
+
+
+Q1. What do you mean by cloud computing?
+Ans. Cloud computing is a model for allowing convenient, on-demand access from anywhere, to a shared pool of computing resources.
+	
+
+Q2. What are the main characteristics of cloud computing?
+Ans. The main characteristics of cloud computing are On-Demand Self-Service, Broad Network Access, Resource Pooling, Rapid Elasticity, and Metering.
+	
+
+Q3. What are the options for cloud deployments?
+Ans. The options for cloud deployments are public cloud, private cloud, and hybrid cloud.
+	
+
+Q4. What is a private cloud?
+Ans. A private cloud is provisioned for exclusive use of a single organization. The infrastructure is usually owned, managed and operated by the organization within its own firewall.
+	
+
+Q5. What is a public cloud?
+Ans. A public cloud infrastructure is open for use by the general public. This type of cloud is owned, managed and operated by a cloud service provider and runs on providers premises.
+	
+
+Q6. What is a hybrid cloud?
+Ans. A hybrid cloud allows a user to access both private and public cloud resources from a single management environment.
+	
+
+Q7. What are the different types of IT services which are used in public, private, and hybrid cloud?
+Ans. The different types of IT services which are used in public, private, and hybrid cloud are SaaS software as a service, PaaS platform as a service, and IaaS infrastructure as a service.
+	
+
+Q8. Define SaaS cloud with examples.
+Ans. SaaS software as a service allows users to access an application without having to manage or control the underlying cloud infrastructure. Examples of SaaS are Gmail, Salesforce.com.
+	
+
+Q9. What do you mean by Platform as a Service?
+Ans. PaaS platform as a service gives users access to a software development environment to allow them to create their own cloud applications using programming languages, libraries, services and tools. The user has control over these applications without having to manage or control underlying cloud infrastructure. Example of PaaS is Cloud Foundry. 
+	
+
+Q10. What is IaaS? 
+Ans. IaaS infrastructure as a service allows a user to quickly and easily provision full computing resources, including processing, storage and networks without a user having to manage or control underlying cloud infrastructure
+	________________

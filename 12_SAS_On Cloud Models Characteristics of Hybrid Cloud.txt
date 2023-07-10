@@ -1,0 +1,43 @@
+12_SAS_On Cloud Models Characteristics of Hybrid Cloud.
+
+
+
+
+1. What is a hybrid cloud?
+ANS. A hybrid cloud combines both private and public clouds environments which means a hybrid cloud will allow users to run applications on most appropriate locations. 
+	
+
+2. What are some characteristics of hybrid clouds?
+ANS. Some characteristics of hybrid clouds are Resource location, Cost and Efficiency, Control, and Skills.
+	
+
+3. What are resource locations in hybrid clouds?
+ANS. Resource locations in hybrid clouds means that there are some specific resources that will run in the public cloud and other dependent resources will run in private cloud infrastructure.
+	
+
+4. What is the cost in hybrid clouds?
+ANS. The cost in hybrid clouds means it will allow an organization some of the benefits of cost and scale that are available in the public cloud.
+	
+
+5. What is the efficiency in hybrid clouds?
+ANS. The efficiency in hybrid clouds means it will allow an organization some of the benefits of efficiency and scale that are available in the public cloud.
+	
+
+6. With hybrid clouds an organization can take advantage of both public and private clouds? True/False.
+ANS. True.
+	
+
+7. What is control in hybrid clouds?
+ANS. The control in hybrid clouds means an organization will retain most of the management controls because they have their infrastructure running on a private cloud.
+	
+
+8. What are skills in hybrid clouds?
+ANS. Skills in hybrid clouds means an organization will need a considerable amount of technical skills to create, build, manage and maintain the hybrid cloud environment.
+	
+
+9. With hybrid clouds an organization has to manage infrastructure in a private cloud and integration components with the public cloud must be maintained by the organization's technical team? True/False.
+ANS. True.
+	
+
+10. When it comes to management controls in hybrid cloud an organization doesn’t have much control? True/False.
+ANS. Fasle.

@@ -1,0 +1,43 @@
+8_SAS_On Cloud Models- Characteristics of Public Cloud.
+
+
+
+
+1. What are the characteristics of Public cloud?
+ANS. The characteristics of Public clouds are Ownership, Multiple End Users, Public Access, Availability, Connectivity, and Skills.
+	
+
+2. What is Ownership in the public cloud?
+ANS. Ownership in the public cloud is resources that organizations or end users use. For example, storage, processing power, CPU, memory. These resources don’t belong to the organization or end users who are utilizing them, instead they are owned and maintained by third parties like cloud service providers.
+	
+
+3. What are Multiple End Users in the public cloud?
+ANS. Multiple End Users in the public cloud is when public cloud modes makes their resources available to multiple organizations 
+	
+
+4. What is public access in the public cloud?
+ANS. Public access in the public cloud is when the public cloud provides access to the public which means the resources in the cloud provider's location can be accessed through the internet. 
+	
+
+5. What is availability in the public cloud?
+ANS. Availability in the public cloud is the most common cloud type deployment model where the cloud provider issues the availability of user data and machines.
+	
+
+6. What is connectivity in the public cloud?
+ANS. Connectivity in the public cloud is when users and organizations are typically connected to the public cloud over the internet using a web browser.
+	
+
+7. What are skills in the public cloud?
+ANS. Skills in the public cloud is that public clouds do not require deep technical knowledge to set up in an organization. 
+	
+
+8. Public clouds do not require too much resources to run an organization? True/False.
+ANS. True.
+	
+
+9. What are the basic things users might need to access public clouds?
+ANS. The basic things users might need to access public clouds are laptop or desktop devices or any small platform that will have a browser and basic internet connectivity.
+	
+
+10. The skills in the public clouds are managed by the cloud providers? True/False.
+ANS. True.

@@ -1,0 +1,43 @@
+6_SAS_On CapEx Vs OpEx
+
+
+
+
+1. Most important thing when it comes to building an application/starting a business is capital (Money)? True/False
+ANS. True.
+	
+
+2. What would small and large businesses have to purchase if they want to grow their business?
+ANS. Small or large businesses have to purchase/invest in servers and data centers so they are able to provide new services to their customers. 
+	
+
+3. Nowadays businesses don’t have to invest in services like data centers or services they can get all those services for cloud service providers? True/False. 
+ANS. True.
+	
+
+4. What are two options that businesses have now that help businesses to provide  services to their customers faster?
+ANS. The two options that businesses have now that help businesses to provide services to their customers faster are capital expenditure and operating expenditure. 
+	
+
+5. What is CapEx (Capital expenditure)?
+ANS. CapEx Capital expenditure is the spending money on physical infrastructure upfront and then deducting that expense and from tax its lowered over time. 
+	
+
+6. What is OpEx (Operational expenditure)?
+ANS. OpEx operational expenditure is an up front cost which has value which reduces or depreciates over time operational expenditure is spending money on services or products and being billed for them.
+	
+
+7. What is the benefit of using OpEx operational expenditure?
+ANS. The benefit of using OpEx operational expenditure is there is no upfront cost businesses pay as they use the services.
+	
+
+8. What do we need if we build a data center?
+ANS. If we build a data center we need a router, switches, firewalls and a lot of servers as well and that initial money will be paid to companies like HP, Dell, IBM, Cisco etc. can be seen as capital expenditure.
+	
+
+9. What are some examples of OpEx operational expenditure?
+ANS. Some examples of OpEx operational expenditure are maintenance, licenses, subscriptions, heating, ventilation, labor, payroll etc.  
+	
+
+10. In cloud services all the CapEx and OpEx are available for a fraction of cost and the user pays as they use the services? True/False
+ANS. True

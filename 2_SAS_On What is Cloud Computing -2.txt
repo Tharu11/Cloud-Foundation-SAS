@@ -1,0 +1,43 @@
+2_SAS_On What is Cloud Computing -2.
+
+
+
+
+1. What are some examples of services provided by cloud service providers?
+Ans. Some examples of services provided by cloud service providers are CPU, Memory, Storage, Network and more.
+	
+
+2. What is the benefit of using cloud services from cloud service providers?
+Ans. The benefit of using cloud services from cloud service providers would be we pay what we use. It is important because cloud users only pay for the services that the user needs.
+	
+
+3.What are some popular examples of cloud service providers?
+Ans. Some examples of cloud service providers would be AWS from Amazon, Google cloud from Google and MS Azure from Microsoft.
+
+	
+4. What are some cloud computing services?
+Ans. Some cloud computing services are Compute Power, Storage, Networking, Analytics and more?
+	
+
+5. What is compute power?
+Ans. Compute power in a way is similar to having a physical device with all the necessary hardware but in a virtual machine as a file we can have processing power, memory, networking, storage and other resources.
+	
+
+6. Virtual Machines, Containers and Serverless computing are different? True/False 
+Ans. True.
+	
+
+7. What is container computing?
+Ans. Container computing provides a consistent isolated execution environment for the application. Containers are similar to virtual machines but they don’t require a guest operating system. Instead the application and all its dependencies are packaged into a container.
+	
+
+8. What is a docker?
+Ans. Docker is a leading platform for managing containers. Docker containers provide an efficient lightweight approach to application deployment.
+	
+
+9. What is serverless computing?
+Ans. Serverless computing will let us run application code without us having to create, maintain, configure a server.
+	
+
+10. What is the core idea of serverless computing?
+Ans. The core idea of serverless computing is that our application is broken into separate functions that run when triggered by some action. It is ideal for automated tasks such as having a server send an automated email at a specific time.

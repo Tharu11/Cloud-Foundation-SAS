@@ -1,0 +1,43 @@
+14_SAS_On What is IAAS.
+
+
+
+
+1. What does it take for an organization to build an Infrastructure?
+ANS. To build an Infrastructure for an organization they need servers, hardwares, routers, switches, firewalls, cabling, a lot of security, monitoring, log access, load balancing, clustering, storage and much more. 
+	
+
+2. What is infrastructure as a service provider?
+ANS. Infrastructure as a service provider means infrastructure as a service provider will provide server, hardwares, routers, switches, firewalls, cabling, a lot of security, monitoring, log access, load balancing, clustering, storage which makes an infrastructure as a service. 
+	
+
+3. Infrastructure as a service provider provides all the necessary infrastructure so users don’t have to build their own infrastructure? True/False.
+ANS. True.
+	
+
+4. Where will all the infrastructure be and managed by?
+ANS. All the infrastructure will be with the infrastructure as a service provider and they will be the one’s managing the infrastructure.
+	
+
+5. List the cloud service providers who will provide the infrastructure as a service?
+ANS. The cloud service providers such as MS Azure, AWS, IBM Cloud will provide the infrastructure as a service.
+	
+
+6. As an infrastructure as a service customer all you have to do is have access to the internet and a subscription with cloud service provider? True/False.
+ANS. True.
+	
+
+7. Why would a business choose infrastructure as a service?
+ANS. A business would choose infrastructure as a service because it is very easy, fast and cost efficient to operate a workload.
+	
+
+8. Is IAAS effective for the workload that is temporary? True/False.
+ANS. True.
+	
+
+9. What can a user rent from infrastructure as a service?
+ANS. From infrastructure as a service a user can rent IT infrastructure servers, virtual machines, storage, networks, and operating systems from cloud providers.
+	
+
+10. With infrastructure as a service there are no upfront costs? True/False.
+ANS. True.
